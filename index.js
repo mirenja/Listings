@@ -1,6 +1,11 @@
+
+
+
+
+
 let visa = document.getElementById('inlineFormSelectPref');
 let selectedVisa = visa.options[visa.selectedIndex].value;
-
+ 
 
 
 
@@ -26,7 +31,7 @@ function visaSelection(){
     }
 }
 function touristTasks(){
-    
+     
 }
 
 function studentTasks(){
