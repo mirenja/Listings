@@ -118,4 +118,22 @@ section{
     margin-top: 0.2rem;
     margin-bottom: 1.5rem;
 }
+.footer-top{
+    padding:90px;
+    background-color:black;
+    color:#4e555b;
+}
 
+.footer-top a{
+    color:#4e555b;    
+}
+
+
+
+.footer-top a:hover{
+    color: #fefefe;
+    
+}
+.footer-top img{
+    color:#4e555b;    
+}
